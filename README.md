@@ -52,7 +52,7 @@
 
 Incorporate new changes as they happen, not in 6 months. 
 
-Trusted by [![Repository Count](https://pull.git.ci/badge/managing?plain&style=flat)](https://probot.github.io/apps/pull/) repositories, triggered [![Triggered #](https://pull.git.ci/badge/triggered?plain&style=flat)](https://github.com/issues?q=author%3Aapp%2Fpull) times.
+Trusted by [![Repository Count](https://pull.git.ci/badge/managing?plain&style=flat)](https://probot.github.io/apps/pull/) repositories, triggered [![Triggered #](https://pull.git.ci/badge/triggered?plain&style=flat)](https://github.com/issues?q=author%3Aapp%2Fpull) [![Greenkeeper badge](https://badges.greenkeeper.io/meonBot/pull.svg)](https://greenkeeper.io/) times.
 
 Want to support this open source service? [Please star it : )](https://github.com/wei/pull)
 
