@@ -13,5 +13,6 @@ branches:
   only:
     - master
     - /^feature-.*/
+    - /^greenkeeper/.*$/
 after_success:
   - npm i codecov -g && codecov
